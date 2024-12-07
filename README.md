@@ -66,13 +66,15 @@ With scalability in mind, the system is designed to efficiently manage **million
   
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 🚀 Getting Started
+
 1️⃣ Prerequisites
 MySQL or any compatible RDBMS installed on your system.
 Basic SQL knowledge to execute and test queries.
 
 2️⃣ Steps to Run the Project
+
 1.Clone the repository:
-  git clone https://github.com/saikirantalasila/BankingSystem-SQL-Project
+  [github clone] (https://github.com/saikirantalasila/BankingSystem-SQL-Project)
 2.Import the SQL script into your database tool (e.g., MySQL Workbench).
 3.Execute the script to create the database, tables, procedures, and triggers.
 4.Insert test data or run sample queries for functionality testing
