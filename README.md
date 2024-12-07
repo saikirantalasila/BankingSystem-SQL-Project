@@ -85,6 +85,7 @@ Basic SQL knowledge to execute and test queries.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 📊 Real-World Use Cases
+
 ✅ Banking Institutions
 Efficiently manage account balances, transactions, and statements for millions of customers.
 
