@@ -1,6 +1,3 @@
-# BankingSystem-SQL-Project
-A SQL-based project implementing a banking system with account management, transactions, stored procedures, triggers, and error handling.
-
 # 🏦 Banking System SQL Project  
 
 ## 🚀 Project Overview  
@@ -24,7 +21,8 @@ With scalability in mind, the system is designed to efficiently manage **million
 - Logs `Credit` and `Debit` transactions, each timestamped for accuracy.  
 - Prevents overdrafts by validating sufficient funds for withdrawals.  
 
-### 3️⃣ **Stored Procedures for Dynamic Reporting**  
+### 3️⃣ **Stored Procedures for Dynamic Reporting**
+
 - **BankStatement**: Generates transaction reports dynamically for any account.  
 - **MiniStatement**: Fetches recent transactions and current balance for a quick view.  
 
@@ -33,11 +31,13 @@ With scalability in mind, the system is designed to efficiently manage **million
 - Validates account balance during debit operations.  
 
 ### 5️⃣ **Error Handling**  
+
 - Graceful SQL exception management to ensure seamless user experience.  
 
 ---
 
 ## 📋 Project Objectives  
+
 - **Efficiency**: Minimize database resource usage while managing large-scale banking operations.  
 - **Scalability**: Capable of handling **1 crore accounts** without performance bottlenecks.  
 - **Reliability**: Ensure transaction accuracy and error recovery mechanisms.  
@@ -74,9 +74,13 @@ Basic SQL knowledge to execute and test queries.
 2️⃣ Steps to Run the Project
 
 1.Clone the repository:
-  [github clone] (https://github.com/saikirantalasila/BankingSystem-SQL-Project)
+
+  [github clone](https://github.com/saikirantalasila/BankingSystem-SQL-Project)
+  
 2.Import the SQL script into your database tool (e.g., MySQL Workbench).
+
 3.Execute the script to create the database, tables, procedures, and triggers.
+
 4.Insert test data or run sample queries for functionality testing
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
