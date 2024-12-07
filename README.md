@@ -93,6 +93,6 @@ About Me
 
 👨‍💻 **Sai Kiran Talasila**
 
-- [LinkedIn](https://www.linkedin.com/in/saikiran-talasila-62457430a/)
+- [Connect with me on LinkedIn](https://www.linkedin.com/in/saikiran-talasila-62457430a/)
 - Passionate about SQL, database management, and building scalable applications.
    
